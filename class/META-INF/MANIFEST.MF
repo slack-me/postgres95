@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+
+Name: postgres95/PGCallableStatement.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: qBchgvasR2TMFkOp3w+FZrR06v8=
+MD5-Digest: Wmlau5LTiHpfkknBhHPNKw==
+
+Name: postgres95/PGColumn.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: dUvp3HnuSu0x12kRywV0Zmz2iC8=
+MD5-Digest: miBI41OPgNeSyUNlMxNMhg==
+
+Name: postgres95/PGConnection.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 9NzriNhj3KbpqJUn2h+PdBmDr9Q=
+MD5-Digest: 36cPM9v08a0vM7UjtfLKig==
+
+Name: postgres95/PGDatabaseMetaData.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: sJVy5sOcESApqftFYln1VgOFaqk=
+MD5-Digest: Wsp8RW8dI0skwQv5+ZVxsA==
+
+Name: postgres95/PGDriver.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: SAFr1Q2KwLfUzWh3r82QpVGKasU=
+MD5-Digest: KrFPsgA2Fmz2YDC0T8wQnA==
+
+Name: postgres95/PGNotify.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: bq6GReVq6pa1ADtP7JCYeiKJA5o=
+MD5-Digest: FmbV4VALR/0Z6GeiUc/AbA==
+
+Name: postgres95/PGPreparedStatement.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 0qZSaxC8yJVoNCkRqhKRvwod60Y=
+MD5-Digest: LdZpGOX0weca5MCl/kNWew==
+
+Name: postgres95/PGResultSet.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ZcBoHVei2DD3qJlp08WF7IT8bzQ=
+MD5-Digest: ZNqKhfspf8bNn8qGn/PYTw==
+
+Name: postgres95/PGResultSetMetaData.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: AMnvnJI7QY079/5WS/T8ib38H3k=
+MD5-Digest: 37oYl8kyl5tVcBqDnXlVnw==
+
+Name: postgres95/PGStatement.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: yPyjtZAKsTN9abilAq97EyyBok4=
+MD5-Digest: Az8x89NOhqnWOpDWxYt2Qg==
+
+Name: postgres95/PGd.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: r7b1pzx2fSRFN2vz1nW50hpiWuM=
+MD5-Digest: wHSAmEfoY1srfUl2zgvalQ==
+
+Name: postgres95/PGparameter.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ZZzezixh6slnxgaa/NK0vwKkoYA=
+MD5-Digest: jCvb0z8imBPw0Ki7kA2yyA==
+
